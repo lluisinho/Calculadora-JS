@@ -1,0 +1,44 @@
+
+.calculadora{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+    padding: 15px;
+    background-color: rgba(167, 5, 5, 0.829);
+}
+.botao{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    background-color: rgb(31,31,31);
+    cursor: pointer;
+    border: none;
+    color: #ffff;
+    margin: 3px;
+}
+.botao:hover{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+#result{
+    width: 218px;
+    height: 30px;
+    background-color: white;
+    margin: 5px;
+    font-size: 25px;
+    text-align: right;
+    
+    
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/07/72/7e/07727e0568648c5216d9366d51afe6e9.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
