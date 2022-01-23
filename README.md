@@ -8,4 +8,4 @@
 <img src="https://github.com/lluisinho/Calculadora-JS/blob/main/fotos%20do%20projeto/2.PNG?raw=true">
 
 
-Você pode visualizar o projeto <a href="https://calculadora-luis.000webhostapp.com/">Clicando Aqui </a>
+Você pode visualizar o projeto <a href="https://calculadora--javascirpt.000webhostapp.com//">Clicando Aqui </a>
